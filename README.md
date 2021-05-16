@@ -12,36 +12,25 @@
 #### Electron Apps
 
 - [Hosty](https://github.com/fiahfy/hosty)  
-  Hosts File Manager based on Electron. ([download](download_hosty))
+  Hosts File Manager based on Electron. ([download](https://github.com/fiahfy/hosty/releases))
 - [Picty](https://github.com/fiahfy/picty)  
-  Simple Image Viewer based on Electron. ([download](download_picty))
+  Simple Image Viewer based on Electron. ([download](https://github.com/fiahfy/picty/releases))
 - [Uni](https://github.com/fiahfy/uni)  
-  Simple Disk Usage Analyzer based on Electron. ([download](download_uni))
+  Simple Disk Usage Analyzer based on Electron. ([download](https://github.com/fiahfy/uni/releases))
 
-#### [Chrome Extensions](webstore)
+#### [Chrome Extensions](https://chrome.google.com/webstore/search/fiahfy?_category=extensions)
 
 - [Autoplay Stopper for YouTube](https://github.com/fiahfy/youtube-autoplay-stopper)  
-  Chrome Extension for Turning off Autoplay on YouTube. ([webstore](webstore_youtube-autoplay-stopper))
+  Chrome Extension for Turning off Autoplay on YouTube. ([webstore](https://chrome.google.com/webstore/detail/autoplay-stopper-for-yout/nllpbgemclgokfdjneckdfnhjpigolko))
 - [Chat Filter for YouTube Live](https://github.com/fiahfy/youtube-live-chat-filter)  
-  Chrome Extension for Filtering Chat Messages on YouTube Live. ([webstore](webstore_youtube-live-chat-filter))
+  Chrome Extension for Filtering Chat Messages on YouTube Live. ([webstore](https://chrome.google.com/webstore/detail/chat-filter-for-youtube-l/jalcplhakmckbmlbidmbmpaegcpbejog))
 - [Chat Notifier for YouTube Live](https://github.com/fiahfy/youtube-live-chat-notifier)  
-  Chrome Extension for Notifying Chat Messages on YouTube Live. ([webstore](webstore_youtube-live-chat-notifier))
+  Chrome Extension for Notifying Chat Messages on YouTube Live. ([webstore](https://chrome.google.com/webstore/detail/chat-notifier-for-youtube/comcgfpdgcmplihamnpfehmmgablmenl))
 - [Chat Selector for YouTube Live](https://github.com/fiahfy/youtube-live-chat-selector)  
-  Chrome Extension for Selecting Chat Messages on YouTube Live. ([webstore](webstore_youtube-live-chat-selector))
+  Chrome Extension for Selecting Chat Messages on YouTube Live. ([webstore](https://chrome.google.com/webstore/detail/youtube-live-chat-filter/elgbmlibcejchmmfkngbdpdmejbajkll))
 - [Flow Chat for YouTube Live](https://github.com/fiahfy/youtube-live-chat-flow)  
   Chrome Extension for Flow Chat Messages on YouTube Live. (Not in the chrome webstore)
 - [Video Quality Fixer for YouTube](https://github.com/fiahfy/youtube-video-quality-fixer)  
-  Chrome Extension for Fixing Highest Video Quality on YouTube. ([webstore](webstore_youtube-video-quality-fixer))
+  Chrome Extension for Fixing Highest Video Quality on YouTube. ([webstore](https://chrome.google.com/webstore/detail/video-quality-fixer-for-y/lachijbhhoeimcnjncfhhpmgfgcoagha))
 - [Video Tag Viewer for YouTube](https://github.com/fiahfy/youtube-video-tag-viewer)  
-  Chrome Extension for Viewing Video Tags on YouTube. ([webstore](webstore_youtube-video-tag-viewer))
-
-[download_hosty]: https://github.com/fiahfy/hosty/releases
-[download_picty]: https://github.com/fiahfy/picty/releases
-[download_uni]: https://github.com/fiahfy/uni/releases
-[webstore]: https://chrome.google.com/webstore/search/fiahfy?_category=extensions
-[webstore_youtube-autoplay-stopper]: https://chrome.google.com/webstore/detail/autoplay-stopper-for-yout/nllpbgemclgokfdjneckdfnhjpigolko
-[webstore_youtube-live-chat-filter]: https://chrome.google.com/webstore/detail/chat-filter-for-youtube-l/jalcplhakmckbmlbidmbmpaegcpbejog
-[webstore_youtube-live-chat-notifier]: https://chrome.google.com/webstore/detail/chat-notifier-for-youtube/comcgfpdgcmplihamnpfehmmgablmenl
-[webstore_youtube-live-chat-selector]: https://chrome.google.com/webstore/detail/youtube-live-chat-filter/elgbmlibcejchmmfkngbdpdmejbajkll
-[webstore_youtube-video-quality-fixer]: https://chrome.google.com/webstore/detail/video-quality-fixer-for-y/lachijbhhoeimcnjncfhhpmgfgcoagha
-[webstore_youtube-video-tag-viewer]: https://chrome.google.com/webstore/detail/video-tag-viewer-for-yout/gcbndmenkdcbihmachfnhjfbbkgkmeog
+  Chrome Extension for Viewing Video Tags on YouTube. ([webstore](https://chrome.google.com/webstore/detail/video-tag-viewer-for-yout/gcbndmenkdcbihmachfnhjfbbkgkmeog))
