@@ -2,7 +2,7 @@
 
 <p align="center">Web Developer, loves front-end.</p>
 
-<img align="right" src="https://github.com/fiahfy/fiahfy/blob/master/karen.gif?raw=true" height="150" />
+<img align="right" src="https://github.com/fiahfy/fiahfy/blob/main/karen.gif?raw=true" height="150" />
 
 #### Web Apps
 
