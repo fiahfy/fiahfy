@@ -29,7 +29,9 @@
 - [Chat Selector for YouTube Live](https://github.com/fiahfy/youtube-live-chat-selector)  
   Chrome Extension for Selecting Chat Messages on YouTube Live. ([webstore](https://chrome.google.com/webstore/detail/youtube-live-chat-filter/elgbmlibcejchmmfkngbdpdmejbajkll))
 - [Flow Chat for YouTube Live](https://github.com/fiahfy/youtube-live-chat-flow)  
-  Chrome Extension for Flow Chat Messages on YouTube Live. (Not in the chrome webstore)
+  Chrome Extension for Flow Chat Messages on YouTube Live.
+- [Time Viewer for YouTube Live](https://github.com/fiahfy/youtube-live-time-viewer)  
+  Chrome Extension for Viewing Time on YouTube Live. ([webstore](https://chrome.google.com/webstore/detail/time-viewer-for-youtube-l/cnllmiliafeacdmlngaofjpjaljoolpc))
 - [Video Quality Fixer for YouTube](https://github.com/fiahfy/youtube-video-quality-fixer)  
   Chrome Extension for Fixing Highest Video Quality on YouTube. ([webstore](https://chrome.google.com/webstore/detail/video-quality-fixer-for-y/lachijbhhoeimcnjncfhhpmgfgcoagha))
 - [Video Tag Viewer for YouTube](https://github.com/fiahfy/youtube-video-tag-viewer)  
