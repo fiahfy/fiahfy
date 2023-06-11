@@ -6,7 +6,7 @@
 
 #### Web Apps
 
-- [774.link](https://774-link.vercel.app/)  
+- [Discontinued] [774.link](https://774-link.vercel.app/)  
   Unofficial schedule site for 774 inc.
 
 #### Electron Apps
@@ -28,8 +28,8 @@
   Chrome Extension for Notifying Chat Messages on YouTube Live. ([webstore](https://chrome.google.com/webstore/detail/chat-notifier-for-youtube/comcgfpdgcmplihamnpfehmmgablmenl))
 - [Chat Selector for YouTube Live](https://github.com/fiahfy/youtube-live-chat-selector)  
   Chrome Extension for Selecting Chat Messages on YouTube Live. ([webstore](https://chrome.google.com/webstore/detail/youtube-live-chat-filter/elgbmlibcejchmmfkngbdpdmejbajkll))
-- [closed] ~~[Flow Chat for YouTube Live](https://github.com/fiahfy/youtube-live-chat-flow)  
-  Chrome Extension for Flow Chat Messages on YouTube Live.~~
+- [Discontinued] [Flow Chat for YouTube Live](https://github.com/fiahfy/youtube-live-chat-flow)  
+  Chrome Extension for Flow Chat Messages on YouTube Live.
 - [Time Viewer for YouTube Live](https://github.com/fiahfy/youtube-live-time-viewer)  
   Chrome Extension for Viewing Time on YouTube Live. ([webstore](https://chrome.google.com/webstore/detail/time-viewer-for-youtube-l/cnllmiliafeacdmlngaofjpjaljoolpc))
 - [Video Quality Fixer for YouTube](https://github.com/fiahfy/youtube-video-quality-fixer)  
