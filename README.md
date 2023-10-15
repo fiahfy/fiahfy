@@ -17,6 +17,10 @@
   Simple Image Viewer based on Electron. ([download](https://github.com/fiahfy/picty/releases))
 - [Uni](https://github.com/fiahfy/uni)  
   Simple Disk Usage Analyzer based on Electron. ([download](https://github.com/fiahfy/uni/releases))
+- [Visty](https://github.com/fiahfy/visty)  
+  Simple Video Player based on Electron. ([download](https://github.com/fiahfy/visty/releases))
+- [Zephy](https://github.com/fiahfy/zephy)  
+  Simple Media File Manager based on Electron. ([download](https://github.com/fiahfy/zephy/releases))
 
 #### [Chrome Extensions](https://chrome.google.com/webstore/search/fiahfy?_category=extensions)
 
