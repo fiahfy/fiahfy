@@ -24,7 +24,7 @@
 - [Archived] [Picty](https://github.com/fiahfy/picty)  
   Simple File Browser and Image Viewer based on Electron. ([download](https://github.com/fiahfy/picty/releases))
 
-#### [Chrome Extensions](https://chrome.google.com/webstore/search/fiahfy?_category=extensions)
+#### Chrome Extensions ([webstore](https://chrome.google.com/webstore/search/fiahfy?_category=extensions))
 
 - [Autoplay Stopper for YouTube](https://github.com/fiahfy/youtube-autoplay-stopper)  
   Chrome Extension for Turning off Autoplay on YouTube. ([webstore](https://chrome.google.com/webstore/detail/autoplay-stopper-for-yout/nllpbgemclgokfdjneckdfnhjpigolko))
