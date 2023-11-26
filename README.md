@@ -15,6 +15,8 @@
   Hosts File Manager based on Electron. ([download](https://github.com/fiahfy/hosty/releases))
 - [Photy](https://github.com/fiahfy/photy)  
   Simple Image Viewer based on Electron. ([download](https://github.com/fiahfy/photy/releases))
+- [Sheafy](https://github.com/fiahfy/sheafy)  
+  Simple Web Browser based on Electron. ([download](https://github.com/fiahfy/sheafy/releases))
 - [Uni](https://github.com/fiahfy/uni)  
   Simple Disk Usage Analyzer based on Electron. ([download](https://github.com/fiahfy/uni/releases))
 - [Visty](https://github.com/fiahfy/visty)  
