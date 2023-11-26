@@ -6,21 +6,23 @@
 
 #### Web Apps
 
-- [Discontinued] [774.link](https://774-link.vercel.app/)  
-  Unofficial schedule site for 774 inc.
+- [Archived] [774.link](https://github.com/fiahfy/774-link)  
+  Unofficial schedule site for 774 inc. ([web](https://774-link.vercel.app/))
 
 #### Electron Apps
 
 - [Hosty](https://github.com/fiahfy/hosty)  
   Hosts File Manager based on Electron. ([download](https://github.com/fiahfy/hosty/releases))
-- [Picty](https://github.com/fiahfy/picty)  
-  Simple Image Viewer based on Electron. ([download](https://github.com/fiahfy/picty/releases))
+- [Photy](https://github.com/fiahfy/photy)  
+  Simple Image Viewer based on Electron. ([download](https://github.com/fiahfy/photy/releases))
 - [Uni](https://github.com/fiahfy/uni)  
   Simple Disk Usage Analyzer based on Electron. ([download](https://github.com/fiahfy/uni/releases))
 - [Visty](https://github.com/fiahfy/visty)  
   Simple Video Player based on Electron. ([download](https://github.com/fiahfy/visty/releases))
 - [Zephy](https://github.com/fiahfy/zephy)  
   Simple File Browser based on Electron. ([download](https://github.com/fiahfy/zephy/releases))
+- [Archived] [Picty](https://github.com/fiahfy/picty)  
+  Simple File Browser and Image Viewer based on Electron. ([download](https://github.com/fiahfy/picty/releases))
 
 #### [Chrome Extensions](https://chrome.google.com/webstore/search/fiahfy?_category=extensions)
 
@@ -32,11 +34,11 @@
   Chrome Extension for Notifying Chat Messages on YouTube Live. ([webstore](https://chrome.google.com/webstore/detail/chat-notifier-for-youtube/comcgfpdgcmplihamnpfehmmgablmenl))
 - [Chat Selector for YouTube Live](https://github.com/fiahfy/youtube-live-chat-selector)  
   Chrome Extension for Selecting Chat Messages on YouTube Live. ([webstore](https://chrome.google.com/webstore/detail/youtube-live-chat-filter/elgbmlibcejchmmfkngbdpdmejbajkll))
-- [Discontinued] [Flow Chat for YouTube Live](https://github.com/fiahfy/youtube-live-chat-flow)  
-  Chrome Extension for Flow Chat Messages on YouTube Live.
 - [Time Viewer for YouTube Live](https://github.com/fiahfy/youtube-live-time-viewer)  
   Chrome Extension for Viewing Time on YouTube Live. ([webstore](https://chrome.google.com/webstore/detail/time-viewer-for-youtube-l/cnllmiliafeacdmlngaofjpjaljoolpc))
 - [Video Quality Fixer for YouTube](https://github.com/fiahfy/youtube-video-quality-fixer)  
   Chrome Extension for Fixing Highest Video Quality on YouTube. ([webstore](https://chrome.google.com/webstore/detail/video-quality-fixer-for-y/lachijbhhoeimcnjncfhhpmgfgcoagha))
 - [Video Tag Viewer for YouTube](https://github.com/fiahfy/youtube-video-tag-viewer)  
   Chrome Extension for Viewing Video Tags on YouTube. ([webstore](https://chrome.google.com/webstore/detail/video-tag-viewer-for-yout/gcbndmenkdcbihmachfnhjfbbkgkmeog))
+- [Archived] [Flow Chat for YouTube Live](https://github.com/fiahfy/youtube-live-chat-flow)  
+  Chrome Extension for Flow Chat Messages on YouTube Live.
