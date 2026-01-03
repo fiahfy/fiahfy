@@ -4,11 +4,6 @@
 
 <img align="right" alt="" height="150" src="https://github.com/fiahfy/fiahfy/blob/main/karen.gif?raw=true" />
 
-#### Web Apps
-
-- [Archived] [774.link](https://github.com/fiahfy/774-link)  
-  Unofficial schedule site for 774 inc. ([web](https://774-link.vercel.app/))
-
 #### Electron Apps
 
 - [Hosty](https://github.com/fiahfy/hosty)  
@@ -23,8 +18,6 @@
   Simple video player based on Electron. ([download](https://github.com/fiahfy/visty/releases))
 - [Zephy](https://github.com/fiahfy/zephy)  
   Simple file browser based on Electron. ([download](https://github.com/fiahfy/zephy/releases))
-- [Archived] [Picty](https://github.com/fiahfy/picty)  
-  Simple file browser and image viewer based on Electron. ([download](https://github.com/fiahfy/picty/releases))
 
 #### Chrome Extensions ([webstore](https://chrome.google.com/webstore/search/fiahfy?_category=extensions))
 
@@ -42,5 +35,3 @@
   Chrome extension that fixes the video quality to the highest available on YouTube. ([webstore](https://chrome.google.com/webstore/detail/video-quality-fixer-for-y/lachijbhhoeimcnjncfhhpmgfgcoagha))
 - [Video Tag Viewer for YouTube](https://github.com/fiahfy/youtube-video-tag-viewer)  
   Chrome extension for viewing video tags on YouTube. ([webstore](https://chrome.google.com/webstore/detail/video-tag-viewer-for-yout/gcbndmenkdcbihmachfnhjfbbkgkmeog))
-- [Archived] [Flow Chat for YouTube Live](https://github.com/fiahfy/youtube-live-chat-flow)  
-  Chrome extension that displays chat messages in a flowing style on YouTube Live.
